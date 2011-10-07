@@ -9,6 +9,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Java Hello World !!!");
 		System.out.println("Adding one more line to the existing program!!!");
+		System.out.println("Tested the sample hello world application");
 
 	}
 
