@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Java Hello World !!!");
 		System.out.println("Adding one more line to the existing program!!!");
 		System.out.println("Tested the sample hello world application");
+		System.out.println("Succcesfully committed the code in the github repository!!!");
 
 	}
 
