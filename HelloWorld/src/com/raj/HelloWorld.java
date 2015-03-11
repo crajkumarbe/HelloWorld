@@ -5,7 +5,7 @@ public class HelloWorld {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args123) {
 		// TODO Auto-generated method stub
 		System.out.println("Java Hello World !!!");
 		System.out.println("Tested the sample hello world application");
